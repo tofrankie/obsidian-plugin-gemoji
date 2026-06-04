@@ -1,0 +1,7 @@
+{
+  "extends": "@tofrankie/tsconfig/vitest.web.json",
+  "compilerOptions": {
+    "types": ["node", "vitest/globals"]
+  },
+  "include": ["tests"]
+}

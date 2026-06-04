@@ -1,0 +1,8 @@
+{
+  "extends": "@tofrankie/tsconfig/node.lib.json",
+  "compilerOptions": {
+    "composite": true,
+    "types": ["node"]
+  },
+  "include": ["tsdown.config.ts"]
+}

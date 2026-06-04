@@ -1,0 +1,7 @@
+{
+  "extends": "@tofrankie/tsconfig/web.app.json",
+  "compilerOptions": {
+    "composite": true
+  },
+  "include": ["src"]
+}
