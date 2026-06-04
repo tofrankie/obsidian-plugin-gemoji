@@ -45,7 +45,7 @@
     "@types/node": "^25.9.1",
     "eslint": "^10.4.1",
     "jsdom": "^29.1.1",
-    "lint-staged": "^17.0.7",
+    "nano-staged": "^1.0.2",
     "node-emoji": "^2.2.0",
     "npm-run-all2": "^9.0.1",
     "obsidian": "^1.13.0",
@@ -56,7 +56,16 @@
     "vitest": "^4.1.8"
   },
   "simple-git-hooks": {
-    "pre-commit": "pnpm lint-staged",
+    "pre-commit": "pnpm nano-staged",
     "commit-msg": "pnpm commitlint --edit"
+  },
+  "nano-staged": {
+    "*.{js,ts,jsx,tsx}": [
+      "eslint --fix",
+      "prettier --write"
+    ],
+    "*.{json,md,yaml,yml}": [
+      "prettier --write"
+    ]
   }
 }
