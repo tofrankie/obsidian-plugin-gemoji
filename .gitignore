@@ -1,7 +1,7 @@
 # Dependency
 node_modules/
 dist/
-.pnpm-store
+.pnpm-store/
 
 # Logs
 logs
@@ -35,3 +35,4 @@ coverage/
 !.env.example
 *.tgz
 *.vsix
+main.js
