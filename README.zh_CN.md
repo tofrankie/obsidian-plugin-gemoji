@@ -37,6 +37,10 @@ Gemoji（GitHub Emoji）用于在 Obsidian 阅读模式中渲染 emoji shortcode
 
 </details>
 
+## 相关推荐
+
+如果你喜欢 GitHub 的 Markdown 渲染风格，也可以试试这款适用于 Obsidian 的 [GitHub Flavored Markdown Theme](https://community.obsidian.md/themes/github-flavored-markdown-theme)。
+
 ## 致谢 ❤️
 
 - [gemoji](https://github.com/wooorm/gemoji) 提供 emoji shortcode 数据

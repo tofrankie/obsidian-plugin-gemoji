@@ -37,6 +37,10 @@ This plugin is available in the Obsidian Community Plugins [store](https://commu
 
 </details>
 
+## Related
+
+If you like GitHub's Markdown rendering style, you may also enjoy the [GitHub Flavored Markdown Theme](https://community.obsidian.md/themes/github-flavored-markdown-theme) for Obsidian.
+
 ## Credits ❤️
 
 - [gemoji](https://github.com/wooorm/gemoji) for emoji shortcode data.
