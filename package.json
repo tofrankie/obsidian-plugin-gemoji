@@ -1,7 +1,7 @@
 {
   "name": "obsidian-plugin-gemoji",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "private": true,
   "packageManager": "pnpm@10.33.4",
   "description": "Render emoji shortcodes in reading mode.",
