@@ -6,7 +6,7 @@
 
 ## Features
 
-- Render supported shortcodes such as `:smile:` :smile:, `:rocket:` :rocket:, `:+1:` :+1:, and `:white_check_mark:` :white_check_mark: as Unicode emoji.
+- Render supported shortcodes such as `:smile:` 😄, `:rocket:` 🚀, `:+1:` 👍, and `:white_check_mark:` ✅ as Unicode emoji.
 - Preserve markdown source content.
 
 ## Preview

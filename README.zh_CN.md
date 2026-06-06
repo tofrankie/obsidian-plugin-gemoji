@@ -6,7 +6,7 @@ Gemoji（GitHub Emoji）用于在 Obsidian 阅读模式中渲染 emoji shortcode
 
 ## 功能
 
-- 将支持的 shortcodes 渲染为 Unicode emoji，例如 `:smile:` :smile:、`:rocket:` :rocket:、`:+1:` :+1: 和 `:white_check_mark:` :white_check_mark:
+- 将支持的 shortcodes 渲染为 Unicode emoji，例如 `:smile:` 😄、`:rocket:` 🚀、`:+1:` 👍 和 `:white_check_mark:` ✅
 - 保留 markdown 源内容不变
 
 ## 预览
