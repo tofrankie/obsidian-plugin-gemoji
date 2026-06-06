@@ -1,6 +1,6 @@
 ## 1. 项目脚手架
 
-- [x] 1.1 添加 Obsidian 插件必需的 `manifest.json`，默认使用 `id: gemoji`、`name: Gemoji`、`version: 1.0.0`、`minAppVersion: 1.0.0`、`author: frankie`、`authorUrl: https://github.com/tofrankie`、`fundingUrl.PayPal: https://paypal.me/tofrankie`，并补齐 `description`。
+- [x] 1.1 添加 Obsidian 插件必需的 `manifest.json`，默认使用 `id: gemoji`、`name: Gemoji`、`version: 1.0.0`、`minAppVersion: 1.0.0`、`author: Frankie`、`authorUrl: https://github.com/tofrankie`、`fundingUrl.PayPal: https://paypal.me/tofrankie`，并补齐 `description`。
 - [x] 1.2 添加 `versions.json`，记录当前插件版本与最低 Obsidian 版本的对应关系。
 - [x] 1.3 添加 TypeScript project references 配置，包括 `tsconfig.app.json`、`tsconfig.test.json`、`tsconfig.node.json` 和 `tsdown.config.ts`，产物输出为根目录 `main.js`。
 - [x] 1.4 更新 `.gitignore`，确保 `main.js` 等构建产物不作为源码常规提交内容。

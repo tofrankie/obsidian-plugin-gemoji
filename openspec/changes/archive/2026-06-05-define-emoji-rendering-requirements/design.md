@@ -48,7 +48,7 @@ Obsidian 官方社区提交文档确认了以下发布约束：
   "version": "1.0.0",
   "minAppVersion": "1.0.0",
   "description": "Render emoji shortcodes in reading mode.",
-  "author": "frankie",
+  "author": "Frankie",
   "authorUrl": "https://github.com/tofrankie",
   "fundingUrl": {
     "PayPal": "https://paypal.me/tofrankie"
@@ -202,7 +202,7 @@ block :rocket:
 - `CHANGELOG.md` 包含与当前 `manifest.json.version` 一致的 `## <version>` 小节。
 - `LICENSE` 存在且 license 与依赖使用方式兼容。
 - `manifest.json` 包含必填字段 `id`、`name`、`version`、`minAppVersion`、`description`、`author`，且版本号为 `x.y.z`。
-- `manifest.json` 使用默认提交信息：`id` 为 `gemoji`，`name` 为 `Gemoji`，`author` 为 `frankie`，`authorUrl` 为 `https://github.com/tofrankie`，`fundingUrl.PayPal` 为 `https://paypal.me/tofrankie`。
+- `manifest.json` 使用默认提交信息：`id` 为 `gemoji`，`name` 为 `Gemoji`，`author` 为 `Frankie`，`authorUrl` 为 `https://github.com/tofrankie`，`fundingUrl.PayPal` 为 `https://paypal.me/tofrankie`。
 - `versions.json` 与当前 `manifest.json.version`/`minAppVersion` 保持一致，后续提高 `minAppVersion` 时同步维护。
 - GitHub release tag 与 `manifest.json.version` 完全一致。
 - GitHub release 附件包含 `main.js`、`manifest.json`，如果存在样式则包含 `styles.css`。
