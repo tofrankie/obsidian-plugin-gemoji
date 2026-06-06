@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.1.1
+
+> 2026-06-06
+
+- Update documentation
+
 ## 1.1.0
 
 > 2026-06-05
