@@ -2,7 +2,7 @@
 
 > [English](./README.md) | 简体中文
 
-在 Obsidian 阅读模式中渲染 emoji shortcodes。
+Gemoji（GitHub Emoji）用于在 Obsidian 阅读模式中渲染 emoji shortcodes。
 
 ## 功能
 
@@ -39,7 +39,7 @@
 
 ## 致谢 ❤️
 
-- [node-emoji](https://github.com/omnidan/node-emoji) 用于 emoji shortcode 查询
+- [gemoji](https://github.com/wooorm/gemoji) 提供 emoji shortcode 数据
 - [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) 提供 GitHub emoji 对照表
 
 ## 许可证

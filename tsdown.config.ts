@@ -5,16 +5,9 @@ export default defineConfig({
   dts: false,
   entry: ['src/main.ts'],
   deps: {
-    alwaysBundle: ['node-emoji'],
+    alwaysBundle: ['gemoji'],
     neverBundle: ['obsidian'],
-    onlyBundle: [
-      '@sindresorhus/is',
-      'char-regex',
-      'emojilib',
-      'node-emoji',
-      'skin-tone',
-      'unicode-emoji-modifier-base',
-    ],
+    onlyBundle: ['gemoji'],
   },
   format: 'cjs',
   minify: false,

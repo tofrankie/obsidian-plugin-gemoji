@@ -1,8 +1,8 @@
 # Gemoji for Obsidian
 
-> English | [简体中文](./README.zh_CN.md)
+> English | [简体中文](https://github.com/tofrankie/obsidian-plugin-gemoji/blob/main/README.zh_CN.md)
 
-Render emoji shortcodes in Obsidian Reading mode.
+**Gemoji** (GitHub Emoji) renders emoji shortcodes in Obsidian Reading mode.
 
 ## Features
 
@@ -39,7 +39,7 @@ This plugin is available in the Obsidian Community Plugins [store](https://commu
 
 ## Credits ❤️
 
-- [node-emoji](https://github.com/omnidan/node-emoji) for emoji shortcode lookup.
+- [gemoji](https://github.com/wooorm/gemoji) for emoji shortcode data.
 - [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) for the GitHub emoji cheat sheet.
 
 ## License
